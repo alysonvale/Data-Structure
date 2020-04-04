@@ -1,0 +1,10 @@
+Projeto Bucket Sort utilizando a liguagem C, 
+em fundamento de organizar os dados com lista 
+encadeadas com vetores e lista sequencial.
+
+Em realização: Alyson Matheus Vale e João Edinaldo Gomes dos Santos.
+
+Bucket Sort project using the C language, on the basis of 
+organizing the data with list linked with vectors and sequential list.
+
+In progress: Alyson Matheus Vale and João Edinaldo Gomes dos Santos.
